@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "motion": "^14.14.0"
+  },
+  "name": "5555",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Timka.js",
+  "devDependencies": {
+    "vite": "^8.3.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
